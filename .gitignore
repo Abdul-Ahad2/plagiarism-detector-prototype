@@ -1,3 +1,4 @@
 /frontend
 /backend/node_modules
 /backend/uploads
+.gitignore
